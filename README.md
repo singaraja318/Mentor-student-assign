@@ -6,7 +6,7 @@ Backend deployed link
 https://assign-mentorbe.onrender.com/
 
 Frontend Source code
-https://github.com/Vidhya0501/assign-mentorFE/tree/main
+https://github.com/singaraja318/Mentor-student-assign.git
 
 Frontend deployed link
 https://assign-mentor-fe-vidhya.netlify.app/
